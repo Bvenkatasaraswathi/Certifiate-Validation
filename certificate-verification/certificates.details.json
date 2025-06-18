@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6852945c5503151569e6a64f"
+  },
+  "certificateId": "CERT123456",
+  "studentName": "Alice Smith",
+  "college": "ABC University",
+  "internshipDomain": "Web Development",
+  "duration": "6 weeks",
+  "issueDate": "2025-06-01"
+},
+{
+  "_id": {
+    "$oid": "685295615503151569e6a652"
+  },
+  "certificateId": "CERT789012",
+  "studentName": "Bob Johnson",
+  "college": "XYZ Institute of Technology",
+  "internshipDomain": "Data Science",
+  "duration": "3 months",
+  "issueDate": "2025-05-15"
+},
+{
+  "_id": {
+    "$oid": "685295615503151569e6a653"
+  },
+  "certificateId": "CERT345678",
+  "studentName": "Carla Rivera",
+  "college": "PQR College of Engineering",
+  "internshipDomain": "Cybersecurity",
+  "duration": "2 months",
+  "issueDate": "2025-04-20"
+},
+{
+  "_id": {
+    "$oid": "685295615503151569e6a654"
+  },
+  "certificateId": "CERT901234",
+  "studentName": "David Kim",
+  "college": "LMN Technical University",
+  "internshipDomain": "Machine Learning",
+  "duration": "4 weeks",
+  "issueDate": "2025-03-12"
+},
+{
+  "_id": {
+    "$oid": "685295615503151569e6a655"
+  },
+  "certificateId": "CERT567890",
+  "studentName": "Emma Lee",
+  "college": "JKL Polytechnic",
+  "internshipDomain": "Cloud Computing",
+  "duration": "5 weeks",
+  "issueDate": "2025-02-10"
+}]
